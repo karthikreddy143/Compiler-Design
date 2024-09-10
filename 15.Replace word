@@ -2,7 +2,7 @@
 #include<stdio.h>
 %}
 %%
-"saibhavani" { printf("apricon "); }
+"jayasankar" { printf("King "); }
 . { printf("%c", yytext[0]); }
 %%
 int yywrap(){}
